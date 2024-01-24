@@ -1,0 +1,52 @@
+#panel-left{
+    width: 530px;
+}
+
+#panel-right{
+    width: 600px;
+}
+
+#table-values{
+    width: 530px;
+    height: 285px;
+}
+
+#table-values .table-header .table-cell:nth-child(1),
+#table-values .table-detail .table-row .table-cell:nth-child(1){
+    width: 250px;
+}
+
+#table-values .table-header .table-cell:nth-child(2),
+#table-values .table-detail .table-row .table-cell:nth-child(2){
+    width: 265px;
+}
+
+#table-history{
+    width: 600px;
+    height: 400px;
+}
+
+#table-history .table-header .table-cell:nth-child(1),
+#table-history .table-detail .table-row .table-cell:nth-child(1){
+    width: 95px;
+}
+
+#table-history .table-header .table-cell:nth-child(2),
+#table-history .table-detail .table-row .table-cell:nth-child(2){
+    width: 60px;
+}
+
+#table-history .table-header .table-cell:nth-child(3),
+#table-history .table-detail .table-row .table-cell:nth-child(3){
+    width: 180px;
+}
+
+#table-history .table-header .table-cell:nth-child(4),
+#table-history .table-detail .table-row .table-cell:nth-child(4){
+    width: 204px;
+}
+
+#table-history .table-header .table-cell:nth-child(5),
+#table-history .table-detail .table-row .table-cell:nth-child(5){
+    width: 40px;
+}
